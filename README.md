@@ -1,4 +1,5 @@
 This repo is meant to showcase a mobile application project I worked on
+for my mobile application development course
 
 Langauge: Java
 Platform: Android
@@ -30,3 +31,6 @@ Notice:
 Video Demo of application features:
   https://youtu.be/9MjFkpH19hY
   Skip to time 9:35 of the video if you only want to see the live demo
+ 
+ This really came together thanks to the effors of the entire team! 
+Jack, Jeicy, and James you guys rock and it was awesome working with you!
